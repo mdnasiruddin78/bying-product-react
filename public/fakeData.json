@@ -1,0 +1,57 @@
+[
+    {
+      "id": 1,
+      "name": "Smartphone X12",
+      "image": "https://i.ibb.co.com/7RwhJvG/4.jpg",
+      "description": "The latest smartphone with a 6.5-inch OLED display, 128GB storage, and 5G support.",
+      "price": 799.99,
+      "category": "Mobile Phones",
+      "isFeature": true
+    },
+    {
+      "id": 2,
+      "name": "Noise-Cancelling Earbuds",
+      "image": "https://i.ibb.co.com/vX5QPsR/3.png",
+      "description": "Compact and powerful wireless earbuds with active noise cancellation and 24-hour battery life.",
+      "price": 149.99,
+      "category": "Accessories",
+      "isFeature": false
+    },
+    {
+      "id": 3,
+      "name": "Fitness Tracker Pro",
+      "image": "https://i.ibb.co.com/1dZ3dRK/2.png",
+      "description": "Waterproof fitness tracker with heart rate monitor, sleep tracking, and GPS.",
+      "price": 59.99,
+      "category": "Wearables",
+      "isFeature": true
+    },
+    {
+      "id": 4,
+      "name": "Portable Bluetooth Speaker",
+      "image": "https://i.ibb.co.com/R0bxDg9/1.jpg",
+      "description": "Durable and waterproof Bluetooth speaker with 12-hour battery life and rich sound.",
+      "price": 89.99,
+      "category": "Audio",
+      "isFeature": false
+    },
+    {
+      "id": 5,
+      "name": "Gaming Monitor 27\"",
+      "image": "https://i.ibb.co.com/ygt3Sbt/boy1.png",
+      "description": "27-inch gaming monitor with 144Hz refresh rate, 1ms response time, and G-Sync compatibility.",
+      "price": 329.99,
+      "category": "Computers",
+      "isFeature": true
+    },
+    {
+      "id": 6,
+      "name": "Electric Standing Desk",
+      "image": "https://i.ibb.co.com/94WfS9M/boy2.jpg",
+      "description": "Adjustable height electric standing desk with memory presets and cable management system.",
+      "price": 399.99,
+      "category": "Furniture",
+      "isFeature": false
+    }
+  ]
+  
